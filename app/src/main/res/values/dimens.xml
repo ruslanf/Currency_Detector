@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margin -->
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_12dp">12dp</dimen>
+    <dimen name="margin_14dp">14dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="margin_24dp">24dp</dimen>
+    <dimen name="margin_26dp">26dp</dimen>
+    <dimen name="margin_28dp">28dp</dimen>
+    <dimen name="margin_30dp">30dp</dimen>
+    <dimen name="margin_32dp">32dp</dimen>
+    <dimen name="margin_34dp">34dp</dimen>
+    <dimen name="margin_64dp">64dp</dimen>
+
+    <!-- Padding -->
+    <dimen name="padding_4dp">4dp</dimen>
+    <dimen name="padding_8dp">8dp</dimen>
+    <dimen name="padding_16dp">16dp</dimen>
+    <dimen name="padding_24dp">24dp</dimen>
+
+    <!-- Switch dimensions -->
+    <dimen name="switch_thumb_dimen">20dp</dimen>
+    <dimen name="switch_track_dimen">20dp</dimen>
+
+    <!-- Corner radius -->
+    <dimen name="borderCornerTextInput">4dp</dimen>
+
+    <!-- Radius -->
+    <dimen name="radius_24dp">24dp</dimen>
+    <dimen name="radius_8dp">8dp</dimen>
+    <dimen name="radius_4dp">4dp</dimen>
+    <dimen name="radius">8dp</dimen>
+
+    <!-- Round button size -->
+    <dimen name="button_size_200">200dp</dimen>
+
+    <!-- Image size -->
+    <dimen name="image_size_40dp">40dp</dimen>
+
+    <!-- Border Stroke width -->
+    <dimen name="border_1dp">1dp</dimen>
+    <dimen name="border_2dp">2dp</dimen>
+
+    <!-- Text Size -->
+    <dimen name="size32">32sp</dimen>
+    <dimen name="size26">26sp</dimen>
+    <dimen name="size24">24sp</dimen>
+    <dimen name="size22">22sp</dimen>
+    <dimen name="size20">20sp</dimen>
+    <dimen name="size18">18sp</dimen>
+    <dimen name="size16">16sp</dimen>
+    <dimen name="size14">14sp</dimen>
+    <dimen name="size12">12sp</dimen>
+    <dimen name="size10">10sp</dimen>
+</resources>

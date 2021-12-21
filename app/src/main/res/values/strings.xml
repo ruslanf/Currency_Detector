@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Currency Detector</string>
+
+    <!-- Menu title -->
+    <string name="main_menu_title_popular">Популярное</string>
+    <string name="main_menu_title_favorite">Избранное</string>
+
+    <!-- Fragment Popular title -->
+    <string name="fragment_popular_error_dialog_title">Ошибка в Популярном</string>
+
+    <!-- Fragment Favourite title -->
+    <string name="fragment_favourite_error_dialog_title">Ошибка в Избранном</string>
+
+    <string name="ruble_symbol">%s ₽</string>
+    <string name="euro_symbol">%s €</string>
+
+    <string name="fragment_error_dialog_title">Ошибка</string>
+    <string name="error_dialog_title">Ошибка!</string>
+
+    <string name="content_description_logo">Logo</string>
+
+    <string name="dialog_ok_button_title">OK</string>
+</resources>
